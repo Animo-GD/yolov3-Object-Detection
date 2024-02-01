@@ -5,7 +5,7 @@
    pip install -r requirements.txt
    ```
 2. Run  `server.ipynb`
-3. Run `client.ipynb`
+3. Run `client.ipynb` to test the server
 4. Go to FastAPI server [http://localhost:8000/docs](http://localhost:8000/docs)
 
 **The Result**
