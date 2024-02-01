@@ -1,4 +1,4 @@
-# Object Detection Using Yolov3
+# Object Detection Using Yolov3 and FastAPI
 **To Use This Project**: 
 1. Install requirements.txt
    ```bash
@@ -8,4 +8,7 @@
 3. Run `client.ipynb`
 4. Go to FastAPI server [http://localhost:8000/docs](http://localhost:8000/docs)
 
+**The Result**
+![sh1](screenshot1.png)
 
+![sh2](screenshot2.png)
