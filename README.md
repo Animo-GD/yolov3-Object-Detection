@@ -6,6 +6,6 @@
    ```
 2. Run  `server.ipynb`
 3. Run `client.ipynb`
-4. Go to the local Host [http://localhost:8000/](http://localhost:8000/)
+4. Go to FastAPI server [http://localhost:8000/docs](http://localhost:8000/docs)
 
 
